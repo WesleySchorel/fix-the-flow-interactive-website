@@ -2,19 +2,20 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# Checklist met progressie bar
+Micro-interactie die het mogelijk maakt om de toegankelijkheids eisen van de WCAG te volgen door een oplopende progressie bar.
+
+## Gebruiker
+De doelgroep van deze micro-interactie zijn de developers van Vervoerregio Amsterdam en de partners van Vervoerregio Amsterdam. De bedoeling van deze website is om aan de hand van een checklist te zien aan hoeveel richtlijnen van de WCAG je website voldoet.
 
 ## User Story
-<!-- Schrijf de user story waar je aan hebt gewerkt  -->
+De userstory die ik heb gekozen voor deze deeltaak is: "Als gebruiker wil ik een soort interactieve checklist kunnen bijhouden over de wettelijke toegankelijkheidsrichtlijnen voor mijn eigen website"
 
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+## Wireflow
+https://user-images.githubusercontent.com/112857487/213440674-b223460b-d97c-4f08-80c4-23cd8bfc87e2.jpg
 
-## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? -->
+## Testen
+Ik heb mijn wireflow laten testen zodat ik aan de slag kon gaan met feedback. Ik heb feedback gekregen om de input velden van de checklist duidelijker aan te geven. Ik heb dit in mijn wireflow gedaan door middel van gekleurde vakjes rond om de input velden te tekenen.
 
 
 
