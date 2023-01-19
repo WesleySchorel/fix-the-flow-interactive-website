@@ -12,7 +12,7 @@ De doelgroep van deze micro-interactie zijn de developers van Vervoerregio Amste
 De userstory die ik heb gekozen voor deze deeltaak is: "Als gebruiker wil ik een soort interactieve checklist kunnen bijhouden over de wettelijke toegankelijkheidsrichtlijnen voor mijn eigen website"
 
 ## Wireflow
-https://user-images.githubusercontent.com/112857487/213440674-b223460b-d97c-4f08-80c4-23cd8bfc87e2.jpg
+![wire](https://user-images.githubusercontent.com/112857487/213443664-9b5e7743-43e7-457d-810c-ea5ce5548efe.jpg)
 
 ## Testen
 Ik heb mijn wireflow laten testen zodat ik aan de slag kon gaan met feedback. Ik heb feedback gekregen om de input velden van de checklist duidelijker aan te geven. Ik heb dit in mijn wireflow gedaan door middel van gekleurde vakjes rond om de input velden te tekenen.
